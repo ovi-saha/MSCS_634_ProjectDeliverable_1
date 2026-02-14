@@ -1,6 +1,5 @@
-# MSCS_634_-ProjectDeliverable-_1
-This Repo is Residency Day 1: Project Deliverable 1: Data Collection, Cleaning, and Exploration MSCS-634-M20
-# MSCS 634 – Project Deliverable 1  
+# This Repo is Residency Day 1: Project Deliverable 1: Data Collection, Cleaning, and Exploration MSCS-634-M20 
+
 ## Data Collection, Cleaning, and Exploratory Data Analysis  
 
 ### Dataset Overview
